@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": "ce1d",
+      "username": "rover",
+      "email": "rover@gmail.com",
+      "password": "Rover123456"
+    },
+    {
+      "id": "172b",
+      "username": "Maria",
+      "email": "maria@gmail.com",
+      "password": "Maria12345"
+    },
+    {
+      "id": "203d",
+      "username": "elena",
+      "email": "elena@gmail.com",
+      "password": "elena12345"
+    },
+    {
+      "id": "418d",
+      "username": "vanesa",
+      "email": "vanesa@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Comida para Perro A",
+      "description": "Nutrición completa para perros.",
+      "price": "$20.00",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzhtap1RGNgLY5V68dxP2V-zfLtZeHj-F2Zw&s"
+    },
+    {
+      "id": "2",
+      "name": "Comida para Perro B",
+      "description": "Ideal para perros activos.",
+      "price": "$25.00",
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/e89ece728e3939ca368b457071d3c0be/7/7/7702521988241_32.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Comida para Perro C",
+      "description": "Ideal para perros activos.",
+      "price": "$25.00",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDS-UHHMUMtZkZOxFNejlQtVyqcclpoldHbw&s"
+    },
+    {
+      "id": "4",
+      "name": "Comida para Perro D",
+      "description": "Ideal para perros activos.",
+      "price": "$25.00",
+      "image": "https://villavoexpress.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUxMzYsInB1ciI6ImJsb2JfaWQifX0=--e9eabeddbc81a0af5d713c67f5eca5c70c981e74/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbODAwLDgwMF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1420d7fd3d20057726f0ef3c0043db24ca0403be/alimento-para-perros-purina-ringo-croquetas-completo-y-balanceado-.jpg?locale=es"
+    },
+    {
+      "id": "5",
+      "name": "Comida para Perro E",
+      "description": "Ideal para perros activos.",
+      "price": "$25.00",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK5-ekLBFwmx5W5IzbAsVD-sldLkzAGelDlQ&s"
+    },
+    {
+      "id": "3ccc",
+      "name": "Comida probada",
+      "description": "Ninuga",
+      "price": "30.00",
+      "image": "https://www.supermascotas.com.co/wp-content/uploads/2023/05/7501072210661.jpg"
+    },
+    {
+      "id": "16bd",
+      "name": "probando 2 ",
+      "description": "HOLI",
+      "price": "23.33",
+      "image": "https://purina.com.co/sites/default/files/styles/webp/public/2023-09/Bodegon-productos.png.webp?itok=IJwV2QLb"
+    },
+    {
+      "id": "4583",
+      "name": "Probando 3",
+      "description": "adas",
+      "price": "55.55",
+      "image": "https://purina.com.co/sites/default/files/styles/webp/public/2023-09/Bodegon-productos.png.webp?itok=IJwV2QLb"
+    },
+    {
+      "id": "8691",
+      "name": "Probando 5",
+      "description": "5",
+      "price": "60.00",
+      "image": "https://purina.com.co/sites/default/files/styles/webp/public/2023-09/Bodegon-productos.png.webp?itok=IJwV2QLb"
+    },
+    {
+      "id": "9cb2",
+      "name": "probando10",
+      "description": "1",
+      "price": "22.22",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GQqqPhQtwb5gQtRd3H5Qjr-huEE9FNPJbDjykRsIOJlR29YNbbUjxuJcxoLkMkRBIQs&usqp=CAU"
+    }
+  ]
+}

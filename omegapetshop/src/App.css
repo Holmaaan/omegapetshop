@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #fff; /* Fondo blanco para un estilo limpio */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #333; /* Color de texto gris oscuro */
+}
+
+.App-link {
+  color: #0070f3; /* Color azul para los enlaces */
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.mb-navbar {
+  background-color: #fff; /* Fondo blanco */
+  border-bottom: 1px solid #e0e0e0; /* Línea de separación gris claro */
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333; /* Color de texto gris oscuro */
+}
+
+.dropdown-toggle {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+.form-control {
+  width: 100%;
+  max-width: 400px; /* Máximo ancho para formularios */
+  margin: 0 auto; /* Centrar formularios */
+}
+
+.nav-link {
+  margin-right: 15px;
+  font-size: 0.9rem;
+  color: #333; /* Color de texto gris oscuro */
+}
+
+.container {
+  padding: 20px; /* Espaciado interno */
+}
